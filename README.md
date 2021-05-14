@@ -1,6 +1,6 @@
 # Neural-Style-Transfer
 
-### dataset and transfer learning
+### Dataset and Transfer learning
 The pre-trained model should be downloaded from [here](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) and stored in the folder "pre-trained model".
 
 ### Neural Style Transfer
